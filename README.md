@@ -1,10 +1,25 @@
 # Project Labyrinth
-This week we used react and redux to create a labyrinth game. We used a thunk to fetch API's and styled everything with styled components.
 
-## The problem
-It was a challenge to understand how everything connected in the code, which made it difficult to do a thorough plan in the beginning. We sorted out what styled components we needed and how the design should look like. But the backend was a lot of trial and error, but in the end we made it work. 
+#3 Mob programming
 
-With more time we could add a map that describes each step the player has taken and to make it more immersive adding more animations to the interface. Like fades between screens and events that illustrates what happens in the story.
+Built a labyrinth game using thunk to fetch API's
+
+Tech: Redux, React, Styled components
+
+Tech focus:
+
+- How to work with APIs together with Redux
+
+- How to use thunks
+
+- Different ways of writing Redux
+
+- Reusable components
+
+- How to structure your redux store to suit your data
+
+- To send JSON in the body of a request
+
 
 ## View it live
 https://turtles-labyrinth.netlify.app/
