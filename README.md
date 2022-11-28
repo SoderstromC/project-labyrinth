@@ -4,7 +4,7 @@
 
 Built a labyrinth game using thunk to fetch API's
 
-Tech: Redux, React, Styled components
+Tech: Redux, React, Styled components, Animations
 
 Tech focus:
 
